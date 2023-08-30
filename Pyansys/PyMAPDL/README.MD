@@ -8,7 +8,7 @@ pip install ansys-mapdl-core
 >>>mapdl = launch_mapdl()
 >>>print(mapdl)
 ```
-显示：
+显示以下内容即可：
 ```
 Product:             ANSYS Mechanical Enterprise
 MAPDL Version:       21.1
