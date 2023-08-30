@@ -15,4 +15,5 @@ MAPDL Version:       21.1
 ansys.mapdl Version: 0.65.2
 ```
 # 临时Ansys模型位置：
+每次运行pyansys的代码都会产生一个临时文件，记得多去删删。
 C:\Users\Jia\AppData\Local\Temp\后接一个"ansys_一堆乱码"的文件夹
